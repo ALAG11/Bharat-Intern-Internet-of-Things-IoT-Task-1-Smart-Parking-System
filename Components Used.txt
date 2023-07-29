@@ -1,0 +1,4 @@
+1. Arduino board (e.g., Arduino Uno)
+2. Ultrasonic distance sensors (HC-SR04)
+3. LEDs (corresponding to the number of parking spots)
+4. Breadboard and jumper wires
